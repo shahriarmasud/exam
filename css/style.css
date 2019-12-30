@@ -64,26 +64,36 @@ color: #ead7d7;
 
 margin-top: 17px;
 
-padding: 13px;
+padding: 10px 21px;
 
 color: white;
 
 background-color: #00a1ff;
 
 border-radius: 21px;
+
+font-size: 18px;
+
+text-transform: uppercase;
+
+border: 1px;
 }
 
 .form-main{
 
-width: 48%;
+width: 35%;
 
 float: left;
+
+margin-left: 90px;
 
 margin-top: 60px;
 
 background-color: #2296b1;
 
-border: 2px solid #dfe8ea;
+border: 2px solid #0892b1;
+
+border-radius: 5px;
 }
 
 .form-main h2{
@@ -96,9 +106,13 @@ margin: 0 auto;
 
 text-align: center;
 
-padding-bottom: 5px;
+padding-bottom: 10px;
 
-padding-top: 23px;
+padding-top: 30px;
+
+text-transform: uppercase;
+
+font-weight: 500;
 }
 
 .form-main p{
@@ -111,12 +125,12 @@ text-align: center;
 
 color: white;
 
-padding-bottom: 20px;
+padding-bottom: 27px;
 }
 
 .btn-main{
 
-padding: 10px 214px;
+padding: 10px 137px;
 
 display: block;
 
@@ -126,18 +140,34 @@ background-color: blue;
 
 color: wheat;
 
-margin-bottom: 25px;
+margin-bottom: 29px;
+
+margin-top: 10px;
 
 font-size: 15px;
+
+border-bottom: 5px solid #051b02;
+
+border-top: 1px;
+
+border-left: 1px;
+
+border-right: 1px;
+
+border-radius: 4px;
+
+text-transform: uppercase;
 }
 
 .form-one{
 
-width: 92%;
+width: 90%;
 
 padding: 10px;
 
-margin-bottom: 5px;
+margin-bottom: 13px;
 
 margin-left: 7px;
+
+border-radius: 3px;
 }
